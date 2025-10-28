@@ -4,8 +4,6 @@
 </div>
 <h3 align="center">💻 A passionate software engineer student 📱</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/rom1trt/count.svg)
-
 ## 👨🏻‍💻 About Me
 - I'm Romain from France 🇫🇷, in my last year of Master's in Computer Science at EPITA Paris. 
 - I am interested in Artificial Intelligence 🤖, Data Science 🧪, Blockchain ⛓️.
@@ -43,29 +41,36 @@
     </tr>
   </thead>
   <tbody>
+	  <tr>
+		  <td><b>Software Engineer Intern</b></td>
+      <td><a href="https://www.google.com/"><b>Google</b></a></td>
+      <td>June 2025</td>
+      <td>August 2025</td>
+      <td>3 Months</td>
+    </tr>
     <tr>
-		  <td><b>Software Development Engineer</b></td>
+		  <td><b>Software Development Engineer Intern</b></td>
       <td><a href="https://amazon.com"><b>Amazon</b></a></td>
       <td>September 2024</td>
       <td>March 2025</td>
       <td>6 Months</td>
     </tr>
     <tr>
-		  <td><b>Software Engineer</b></td>
+		  <td><b>Software Engineer Intern</b></td>
       <td><a href="https://heex.io"><b>Heex Technologies</b></a></td>
       <td>September 2023</td>
       <td>January 2024</td>
       <td>5 Months</td>
     </tr>
     <tr>
-	    <td><b>Full Stack Software Engineer</b></td>
+	    <td><b>Full Stack Software Engineer Intern</b></td>
       <td><a href="https://request.network/en/"><b>Request Network</b></a></td>
       <td>June 2022</td>
       <td>August 2022</td>
       <td>2 Months</td>
     </tr>
     <tr>
-		  <td><b>Software Engineer</b></td>
+		  <td><b>Software Developer Intern</b></td>
       <td><a href="https://www.archipels.io/"><b>Archipels</b></a></td>
       <td>June 2021</td>
       <td>August 2021</td>
@@ -87,7 +92,7 @@
 
 ### 🌐 Socials
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romaintrefault)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/justerom1)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rom1trt)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@romtref)
 [![twitter](https://img.shields.io/badge/website-orange?style=for-the-badge&logo=About.me&logoColor=white)](https://romaintrefault.on.fleek.co/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romtref@gmail.com)
