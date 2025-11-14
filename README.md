@@ -20,13 +20,6 @@
 ![C#](https://img.shields.io/badge/-Csharp-05122A?style=for-the-badge&logo=csharp)&nbsp;
 ![Solidity](https://img.shields.io/badge/-solidity-05122A?style=for-the-badge&logo=solidity)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&logo=pandas&logoColor=563D7C)\
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Grafana](https://img.shields.io/badge/-grafana-05122A?style=for-the-badge&logo=grafana)\
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=for-the-badge&logo=graphql)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)\
-![Zapier](https://img.shields.io/badge/-Zapier-05122A?style=for-the-badge&logo=zapier)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=for-the-badge&logo=gnu)&nbsp;
 
 <!------------------------------------------------------Experiences----------------------------------->														
 <h2>Experience</h2>
@@ -92,13 +85,7 @@
 
 ### 🌐 Socials
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romaintrefault)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/r0mtref)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@romtref)
-[![twitter](https://img.shields.io/badge/website-orange?style=for-the-badge&logo=About.me&logoColor=white)](https://romaintrefault.on.fleek.co/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romtref@gmail.com)
 
 <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width:100%;">
-
-[![GitHub rom1trt](https://img.shields.io/github/followers/rom1trt?label=follow&style=social)](https://github.com/rom1trt) 
-
-
