@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/romaintrefault" target="_blank">Romain</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
-<h3 align="center">💻 A passionate software engineer student 📱</h3>
+<h3 align="center">💻 A Passionate Software Engineer 📱</h3>
 
 ## 👨🏻‍💻 About Me
 - I'm Romain from France 🇫🇷, in my last year of Master's in Computer Science at EPITA Paris. 
